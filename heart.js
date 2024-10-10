@@ -13,7 +13,7 @@ let textOpacity = 1;
 let countdownTextX = CANVAS_CENTER_X;
 let countdownTextY = CANVAS_CENTER_Y + 25;
 
-let setting_time = "22:00:00"
+let setting_time = "24:00:00"
 
 let onCountdownEnd = null;
 
